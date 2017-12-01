@@ -1,11 +1,10 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
+title: Custom Phone Case Studios
+email: customscases@cpcs.ca
 url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+description: Express yourself with original phone cases and designs made by you. Customize any phone case model so you can personalize and protect any of your devices. Explore the possibilities and make it yours.
+keywords: Custom, Phone, Cases
+meta_author: Shechtman Noah Shariff Haikal
 
 # Google webmaster tools
 google_verify:
