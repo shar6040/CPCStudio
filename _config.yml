@@ -1,10 +1,9 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-twitter_username: jekyllrb
-github_username:  jekyll
-baseurl: "/freelancer-theme"
+title: Custom Phone Case Studios
+email: customscases@cpcs.ca
+url: https://example.github.io
+description: Express yourself with original phone cases and designs made by you. Customize any phone case model so you can personalize and protect any of your devices. Explore the possibilities and make it yours.
+meta_author: Shechtman Noah Shariff Haikal
 
 # Build settings
 markdown: kramdown
